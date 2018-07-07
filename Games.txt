@@ -1,0 +1,8 @@
+Catan 2 6
+Clue 2 6
+Risk 2 6
+Quarto 2 2
+Chess 2 2
+Dominion 2 12
+Solitaire 1 1
+Spades 4 4
