@@ -1,5 +1,6 @@
 # HazelGames
 version 1
+
 A Project by Ross Lambert
 
 ## Description
@@ -16,5 +17,5 @@ If the program is taking an unreasonable amount of time to display the message "
 * Numbers of players must be positive integers
 * The program does not read line by line, so if you really wanted to you could list all games in a single line.
 
-##possible improvements
+## Possible Improvements
 * Some sorting system. Currently, games are sorted by their appearance in "Games.txt". In later installments, a "score" of some sort could be applied to games and added to "Games.txt".
