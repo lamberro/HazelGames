@@ -8,8 +8,10 @@ Do you ever have trouble thinking of what to play? This program makes choosing g
 
 When booting the program, the program will list out registered users from Preferences.txt, if any are registered on that document. Wait until the program says "Number of players: ". When this happens, simply write any integer you want and press enter, and the program will list all of the valid games out for you.
 
-## Requirements
+## Changes in Version 2
+* HazelGames now comes with Preferences.txt, where users can register a list of game preferences or opinions! These opinions will show up beside any game that is listed.
 
+## Requirements
 If the program is taking an unreasonable amount of time to display the message "Number of players: ", then the requirements might not be met.
 
 ### Games.txt Requirements
@@ -24,9 +26,6 @@ If the program is taking an unreasonable amount of time to display the message "
 * The format for this file is as follows: A username is provided in angle brackets (e.g. <USERNAME>). After the username, list games as one word, with each game being on a new line. On games on which you wish to leave an opinion, write an opinion in quotes on the same line as the game's title. The title must be left of the opinion. An example file is provided.
 * You do not need to include every game that is in Games.txt, however all games that you include in Preferences.txt must also be included in Games.txt.
 * Game titles cannot have spaces or begin with the < symbol
-
-## Changes in Version 2
-* HazelGames now comes with Preferences.txt, where users can register a list of game preferences or opinions! These opinions will show up beside any game that is listed.
 
 ## Possible Future Improvements
 * A random selector, which would choose a game for the user based on the number of players.
