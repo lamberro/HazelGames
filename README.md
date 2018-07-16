@@ -24,6 +24,8 @@ If the program is taking an unreasonable amount of time to display the message "
 
 ### Preferences.txt Requirements
 * the file "Preferences.txt must be in the same folder as "HazelGames.exe"
+* the file must end in <end>
+* Users cannot have the name <end>
 * The format for this file is as follows: A username is provided in angle brackets (e.g. <USERNAME>). After the username, list games as one word, with each game being on a new line. On games on which you wish to leave an opinion, write an opinion in quotes on the same line as the game's title. The title must be left of the opinion. An example file is provided.
 * You do not need to include every game that is in Games.txt, however all games that you include in Preferences.txt must also be included in Games.txt.
 * Game titles cannot have spaces or begin with the < symbol.
