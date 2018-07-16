@@ -6,3 +6,4 @@ Chess 2 2
 Dominion 2 12
 Solitaire 1 1
 Spades 4 4
+Spore 1 1

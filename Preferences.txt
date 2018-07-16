@@ -1,0 +1,11 @@
+<Zech>
+Catan "This game sucks"
+Solitaire "I've been itching to play this"
+Chess "4/10"
+Clue "10/10"
+<Ana>
+Catan
+Clue "Meh"
+Chess "Meh"
+Quarto
+<end>
